@@ -76,9 +76,9 @@
     <p>Me encanta ir a lugares que combinan con la naturaleza. En sí no tengo un lugar favorito, ya que cualquier lugar que sea tranquilo es perfecto para mí.</p>
   </div>
 
-  <img src="PXL_20230205_170627199.jpg" alt="caballo gris atado a un árbol, equipado con una silla de montar y riendas verdes" width="600" height="400">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/170281183/331926073-2bb5d58a-432c-47c7-89f9-2f72ae8018e4.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240520%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240520T023649Z&X-Amz-Expires=300&X-Amz-Signature=d32511b5e12ccadf354c682f15a33f010c9ec631bde0feea246c66f1ad9bf149&X-Amz-SignedHeaders=host&actor_id=170281183&key_id=0&repo_id=803070079" alt="caballo gris atado a un árbol, equipado con una silla de montar y riendas verdes" width="600" height="400">
 
-  <img src="IMG_3024.JPG" alt="una escena al aire libre durante lo que parece ser el atardece. El cielo está parcialmente nublado, con nubes que reflejan los colores cálidos del sol, creando un efecto visual impresionante con tonos de azul, blanco y dorado" width="600" height="400">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/170281183/331926073-2bb5d58a-432c-47c7-89f9-2f72ae8018e4.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240520%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240520T023649Z&X-Amz-Expires=300&X-Amz-Signature=d32511b5e12ccadf354c682f15a33f010c9ec631bde0feea246c66f1ad9bf149&X-Amz-SignedHeaders=host&actor_id=170281183&key_id=0&repo_id=803070079" alt="una escena al aire libre durante lo que parece ser el atardece. El cielo está parcialmente nublado, con nubes que reflejan los colores cálidos del sol, creando un efecto visual impresionante con tonos de azul, blanco y dorado" width="600" height="400">
 
   <div class="video">
     <h2>Video Favorito</h2>
